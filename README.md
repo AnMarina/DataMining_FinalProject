@@ -3,7 +3,6 @@
 Experiments comparing pseudo-labeling strategies for the Wisconsin Breast Cancer Diagnostic dataset, with a focus on reducing false-negative rate (FNR) in a safety-critical setting.
 
 ## Methods compared
-
 | Method | Key idea |
 |---|---|
 | Supervised only | MLP / Logistic Regression trained on labeled set only |
